@@ -3,7 +3,6 @@
 Um projeto simples e elegante que recebe dados enviados por um formulário HTML, valida as informações e as salva automaticamente em um arquivo CSV no servidor.  
 Ideal para criar formulários de contato ou coletar dados de usuários de forma rápida.
 
-![Form Screenshot](./screenshot.png) <!-- Você pode colocar um print do formulário aqui -->
 
 ---
 
